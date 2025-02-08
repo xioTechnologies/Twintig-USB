@@ -1,0 +1,33 @@
+Altium Designer Pick and Place Locations
+C:\MyFiles\x-io\Services\MICA Lab\Twintig\Twintig-USB\Project Outputs for Twintig-USB\Pick Place\Pick Place for Twintig-USB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       08/02/25
+Time:       15:37
+Revision:   15a13f0ddfc33b491439c01824bc41e0082c0866
+Variant:    No variations
+Units used: mm
+
+"Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation","Comment"
+"TP4","1.5000mm","1.5000mm","TopLayer","90","Test Point"
+"TP9","9.5000mm","1.5000mm","TopLayer","90","Test Point"
+"TP7","3.5000mm","4.0000mm","TopLayer","90","Test Point"
+"TP5","7.5000mm","4.0000mm","TopLayer","90","Test Point"
+"TP10","13.5000mm","1.5000mm","TopLayer","90","Test Point"
+"TP3","13.5000mm","18.5000mm","TopLayer","90","Test Point"
+"TP1","9.5000mm","18.5000mm","TopLayer","90","Test Point"
+"R3","6.7500mm","12.5000mm","TopLayer","180","1MR"
+"R2","6.7500mm","6.2500mm","TopLayer","0","5.1kR"
+"R1","6.7500mm","11.2500mm","TopLayer","0","5.1kR"
+"J1","4.4600mm","17.0000mm","TopLayer","180","DNP"
+"J3","3.0003mm","10.0000mm","TopLayer","270","Molex 502426-2630"
+"D3","6.7500mm","7.5000mm","TopLayer","180","SP0402B-ULC-01ETG"
+"D2","6.7500mm","8.7500mm","TopLayer","180","SP0402B-ULC-01ETG"
+"D1","6.7500mm","10.0000mm","TopLayer","180","SP0402B-ULC-01ETG"
+"C1","6.7500mm","13.7500mm","TopLayer","180","4.7nF"
+"TP6","11.5000mm","4.0000mm","TopLayer","90","Test Point"
+"TP8","5.5000mm","1.5000mm","TopLayer","90","Test Point"
+"J2","10.7500mm","10.0000mm","TopLayer","90","Molex 217179-0001"
+"TP2","11.5000mm","16.0000mm","TopLayer","90","Test Point"
